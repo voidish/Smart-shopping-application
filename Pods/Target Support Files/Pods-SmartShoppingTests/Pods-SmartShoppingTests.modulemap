@@ -1,0 +1,6 @@
+framework module Pods_SmartShoppingTests {
+  umbrella header "Pods-SmartShoppingTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
